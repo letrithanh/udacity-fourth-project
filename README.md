@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![letrithanh](https://circleci.com/gh/letrithanh/udacity-fourth-project.svg?style=svg)](https://app.circleci.com/pipelines/github/letrithanh/udacity-fourth-project)
 
 ## Project Overview
 
